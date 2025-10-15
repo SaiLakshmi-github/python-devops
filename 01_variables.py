@@ -72,3 +72,4 @@ res = a and b
 res_1 = a or b
 res_2 = not a
 res_3 = not b
+print(res,res_1,res_2,res_3)
