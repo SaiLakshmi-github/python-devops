@@ -68,6 +68,8 @@ res_2 = a == b
 res_3 = a !=b
 print(res,res_1,res_2,res_3)
 #logical operations- AND, OR, NOT
+a = True
+b = False
 res = a and b
 res_1 = a or b
 res_2 = not a
