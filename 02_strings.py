@@ -1,3 +1,3 @@
 #indexing- prints the placement or position of the element from the string; starts from 0
 sample_str = "this is a sample string"
-print(simple_str[2])
+print(sample_str[2])
