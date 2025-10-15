@@ -56,3 +56,19 @@ print(i)
 a = "42"
 b = "43"
 print(a+b)
+#Power of a number
+a = 10
+print(a**2)
+#comparision operators
+a = 10
+b = 20
+res = a > b
+res_1 = a < b
+res_2 = a == b
+res_3 = a !=b
+print(res,res_1,res_2,res_3)
+#logical operations- AND, OR, NOT
+res = a and b
+res_1 = a or b
+res_2 = not a
+res_3 = not b
